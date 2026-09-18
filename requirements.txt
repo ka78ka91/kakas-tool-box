@@ -1,0 +1,6 @@
+psutil
+pywin32
+pystray
+pillow
+pywebview
+tkinterdnd2
